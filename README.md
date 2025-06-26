@@ -19,3 +19,6 @@
 3. Start the application
       ```bash
    npm run dev
+![BucketListscreenshot](src/images/buketList.png)
+![AddFormScreenshot](src/images/addForm.png)
+![BEditFormScreenshot](src/images/editForm.png)
