@@ -1,0 +1,10 @@
+.card-element {
+  background-color: #ffcbcb;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px white;
+}
+
+.card-image {
+  box-shadow: 1px 1px 15px black;
+  border-radius: 10px;
+}
